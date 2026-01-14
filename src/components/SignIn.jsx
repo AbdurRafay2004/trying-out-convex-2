@@ -34,7 +34,7 @@ export function SignIn() {
                     <p className="auth-subtitle">
                         {step === "signIn"
                             ? "Sign in to continue clicking"
-                            : "Join us and start clicking!"}
+                            : "Join us and start clicking!!!"}
                     </p>
                 </div>
 
